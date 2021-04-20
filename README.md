@@ -1,2 +1,2 @@
 # eae-mundao
-Só de boresta
+Estamos aqui para comçar a jornada de git
